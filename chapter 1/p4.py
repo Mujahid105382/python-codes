@@ -1,3 +1,1 @@
-m = [1, 2, 3, 4]
-
-print(sum(m))
+print("hey! how are you")
